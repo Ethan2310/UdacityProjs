@@ -1,0 +1,4 @@
+module-info.class
+service\com\udacity\catpoint\image\service\AwsImageService.class
+service\com\udacity\catpoint\image\service\FakeImageService.class
+service\com\udacity\catpoint\image\service\ImageService.class
